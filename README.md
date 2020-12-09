@@ -1,5 +1,5 @@
 # GNR638 Project Report
-![Introduction](https://drive.google.com/drive/folders/1tmHgqf0Jm25Rt9-fvF3BMfmQd3q93TyC)
+![Introduction](https://github.com/rishav1122/Covid-ResNet/blob/main/Images/MAin%20SLIDE.png)
 ## 1.Dataset preparation
 
 The dataset we are using is [COVIDx dataset](https://github.com/lindawangg/COVID-Net). You need to follow [this tutorial]( to
@@ -37,3 +37,5 @@ Colab file [ STAGE3_colab ](https://colab.research.google.com/drive/1ghkwhIrxp7u
 You can Download the Intermediate stage Weights from here for testing
 ( https://drive.google.com/drive/folders/1qy0fHMkXx0Ci6GnkVcSEznQQBj4Mz37E?usp=shar
 ing )
+## Results
+![](https://github.com/rishav1122/Covid-ResNet/blob/main/Images/Results.png)

@@ -1,5 +1,5 @@
 # GNR638 Project Report
-
+![Introduction](https://drive.google.com/drive/folders/1tmHgqf0Jm25Rt9-fvF3BMfmQd3q93TyC)
 ## 1.Dataset preparation
 
 The dataset we are using is [COVIDx dataset](https://github.com/lindawangg/COVID-Net). You need to follow [this tutorial]( to
@@ -10,7 +10,7 @@ collect and prepare the dataset.
 ```
 a. Store the dataset in Project/Covid-19-Master/data
 ```
- 3.How to run the code?
+## 3.How to run the code?
 
 a. First, run preprocessing.ipynb to convert the image dataset to NumPy arrays. (Or you can directly download the .npy
 

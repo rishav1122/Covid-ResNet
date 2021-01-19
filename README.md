@@ -1,3 +1,4 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/covid-resnet-a-deep-learning-framework-for/multi-class-classification-on-covid-chest-x)](https://paperswithcode.com/sota/multi-class-classification-on-covid-chest-x?p=covid-resnet-a-deep-learning-framework-for)
 # GNR638 Project Report
 ![Introduction](https://github.com/rishav1122/Covid-ResNet/blob/main/Images/MAin%20SLIDE.png)
 ## 1.Dataset preparation

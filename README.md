@@ -23,7 +23,7 @@ a. First, run preprocessing.ipynb to convert the image dataset to NumPy arrays. 
 b. Now either (if you have sufficient RAM) directly run GNR-Project.ipynb
 Colab file [ GNR_projectcolab ](https://colab.research.google.com/drive/1j2l81YE2DnvQz-XFMGHRt3hP0lgmNEKk?usp=sharing)
 
-c. If you don’t have enough RAM, run
+c. If you don’t have enough RAM, run  
 i. CRL.ipynb
 
 ii. Stage1.ipynb
@@ -36,7 +36,6 @@ iv. Stage3.ipynb
 Colab file [ STAGE3_colab ](https://colab.research.google.com/drive/1ghkwhIrxp7uBE9w2oArOLp2JC7m4lBwT?usp=sharing)
 
 You can Download the Intermediate stage Weights from here for testing
-( https://drive.google.com/drive/folders/1qy0fHMkXx0Ci6GnkVcSEznQQBj4Mz37E?usp=shar
-ing )
+( https://drive.google.com/drive/folders/1qy0fHMkXx0Ci6GnkVcSEznQQBj4Mz37E?usp=sharing )
 ## Results
 ![](https://github.com/rishav1122/Covid-ResNet/blob/main/Images/Results.png)

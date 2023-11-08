@@ -13,14 +13,16 @@ a. Store the dataset in Project/Covid-19-Master/data
 ```
 ## 3.How to run the code?
 
-a. First, run preprocessing.ipynb to convert the image dataset to NumPy arrays. (Or you can directly download the .npy
+### a
+First, run preprocessing.ipynb to convert the image dataset to NumPy arrays. (Or you can directly download the .npy
 
  files from our work)(https://drive.google.com/drive/folders/1XzyIOyF9oQdwZv57dRyLYj0Ac7GUiUdS?usp=sharing)
 
  Colab file[ Preprocessing _colab](https://colab.research.google.com/drive/1Tm_YNokLyevCa-CfTNjd-XbOQiaSoDNb?usp=sharing)
 
 
-b. Now either (if you have sufficient RAM) directly run GNR-Project.ipynb
+### b
+Now either (if you have sufficient RAM) directly run GNR-Project.ipynb
 Colab file [ GNR_projectcolab ](https://colab.research.google.com/drive/1j2l81YE2DnvQz-XFMGHRt3hP0lgmNEKk?usp=sharing)
 
 c. If you don’t have enough RAM, run  
